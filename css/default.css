@@ -1,0 +1,18 @@
+﻿html, body {
+    width:100%;
+    padding:20px;
+    margin:0px;
+}
+div, section, main {
+    margin:0px;
+    padding:0px;
+}
+canvas {
+    margin: auto;
+    width:auto;
+    box-shadow: 0px 0px 58px 3px rgba(0,0,0,0.75);
+}
+p {
+    display: inline-block;
+    padding-right:20px;
+}
